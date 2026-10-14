@@ -2,7 +2,7 @@
 
 A straightforward Skip List implementation in Java — a school project completed for the KTH course DD1327 (Fundamentals of Computer Science) in Spring 2023.
 
-This repository contains a typical, well-commented implementation of a probabilistic skip list data structure, demonstrating the standard operations and concepts used in the structure.
+This repository contains a typical implementation of a probabilistic skip list data structure, demonstrating the standard operations and concepts used in the structure.
 
 ## What it is
 
